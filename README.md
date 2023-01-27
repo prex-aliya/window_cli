@@ -10,9 +10,11 @@ WARNING: Under Construction<br>
 
 This is a rust made small multi window crate, 
 currently not implemented,
-Terminal ui.
+Terminal UI.
 
 
+# Keys
+<p align="center">
 | ACTION | KEY |
 |--------|-----|
 | move window up | w |
@@ -27,3 +29,4 @@ Terminal ui.
 | change focus | tab |
 | create new window | enter/return |
 | quit | q |
+</p>
