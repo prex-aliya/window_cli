@@ -1,10 +1,15 @@
 <!-- https://codinhood.com/nano/git/center-images-text-github-readme-->
-<h1 align="center" style="font-size:72px">window cli</h1>
+<h1 align="center" style="font-size:72px">Window CLI</h1>
 
 <p align="center">
 //////////////////////////////////////////////////////////////<br>
 WARNING: Under Construction<br>
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+</p>
+
+
+<p align="center">
+        <img src="./.github/logo.png" alt="image">
 </p>
 
 
@@ -25,7 +30,7 @@ Terminal UI.
 | decrease window width | = |
 | increase window length | _ |
 | decrease window length | + |
-| insert in selected window | i |
+| insert in selected window | I |
 | change focus | tab |
 | create new window | enter/return |
 | quit | q |
