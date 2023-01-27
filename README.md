@@ -14,7 +14,7 @@ Terminal UI.
 
 
 # Keys
-<p align="center">
+
 | ACTION | KEY |
 |--------|-----|
 | move window up | w |
@@ -29,4 +29,22 @@ Terminal UI.
 | change focus | tab |
 | create new window | enter/return |
 | quit | q |
+
+<p align="center">
+<table>
+    <thead>
+        <tr>
+            <th align="left">Column1</th>
+            <th align="center">Column1</th>
+            <th align="right">Column1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Column1</td>
+            <td align="center">Column1</td>
+            <td align="right">Column1</td>
+        </tr>
+    </tbody>
+</table>
 </p>
