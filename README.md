@@ -14,7 +14,7 @@ Terminal ui.
 
 
 | ACTION | KEY |
-----------------
+|--------|-----|
 | move window up | w |
 | move window down | r |
 | move window left| a |
