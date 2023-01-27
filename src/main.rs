@@ -50,7 +50,7 @@ fn keys(window: &mut Window, key: char) {
 
         '-' => window.width -= 1,
         '=' => window.width += 1,
-        '_' => window.length += 1,
+        '_' => window.length -= 1,
         '+' => window.length += 1,
 
         'i' => {
