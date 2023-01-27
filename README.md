@@ -2,9 +2,9 @@
 <h1 align="center" style="font-size:72px">Window CLI</h1>
 
 <p align="center">
-//////////////////////////////////////////////////////////////<br>
-WARNING: Under Construction<br>
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+!//////////////////////////////////////////////////////////////!<br>
+! WARNING: Under Construction !<br>
+!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!
 </p>
 
 
@@ -16,6 +16,7 @@ WARNING: Under Construction<br>
 This is a rust made small multi window crate, 
 currently not implemented,
 Terminal UI.
+
 
 
 # Keys
