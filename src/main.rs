@@ -2,7 +2,7 @@ use std::process;
 
 use ncurses::{*, ll::printw};
 
-const BOARDER: i32 = 0;
+const BOARDER: i32 = 3;
 
 
 struct Window {
@@ -87,7 +87,7 @@ fn main() {
 
 
     let mut windows: Vec<Window> = 
-        vec![Window { x: 1, y: 2, width: 15, length: 10, content: "First".to_string() }, Window { x: 15, y: 2, width: 15, length: 10, content: "Secondary".to_string() }];
+        vec![Window { x: 4, y: 5, width: 15, length: 10, content: "First".to_string() }, Window { x: 15, y: 5, width: 15, length: 10, content: "Secondary".to_string() }];
     let mut focus: i32 = 0;
 
     let mut quit = false;
